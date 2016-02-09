@@ -1,29 +1,15 @@
 <resources>
     <string name="app_name">NewsUpdates</string>
-    <string name="action_0">トピックストップ</string>
-    <string name="url_0">http://news.yahoo.co.jp/pickup/rss.xml</string>
-    <string name="action_1">国内</string>
-    <string name="url_1">http://news.yahoo.co.jp/pickup/domestic/rss.xml</string>
-    <string name="action_2">海外</string>
-    <string name="url_2">http://news.yahoo.co.jp/pickup/world/rss.xml</string>
-    <string name="action_3">経済</string>
-    <string name="url_3">http://news.yahoo.co.jp/pickup/economy/rss.xml</string>
-    <string name="action_4">NHKラジオニュース</string>
-    <string name="url_4">http://www.nhk.or.jp/r-news/podcast/nhkradionews.xml</string>
-    <string name="action_5">NHK (Japan Broadcasting Corporation)</string>
-    <string name="url_5">http://www.nhk.or.jp/rj/podcast/rss/english.xml</string>
-    <string name="action_6">BBC World Service</string>
-    <string name="url_6">http://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads.rss</string>
-    <string name="action_7">CNN Student News</string>
-    <string name="url_7">http://rss.cnn.com/services/podcasting/studentnews/rss.xml</string>
-    <string name="action_8">CNN Student News(NHK)</string>
-    <string name="url_8">http://www6.nhk.or.jp/kokusaihoudou/cnn/index.html</string>
-    <string name="action_9">ABC New Shower(NHK)</string>
-    <string name="url_9">http://www6.nhk.or.jp/kokusaihoudou/abc/index.html</string>
-    <string name="action_10">VOA Learning English Broadcast</string>
-    <string name="url_10">http://learningenglish.voanews.com/podcast/?count=20&amp;zoneId=1689</string>
-    <string name="action_11">VOA This is America</string>
-    <string name="url_11">http://learningenglish.voanews.com/podcast/?count=20&amp;zoneId=1580</string>
-    <string name="action_12">VOA Science in the News</string>
-    <string name="url_12">http://learningenglish.voanews.com/podcast/?count=20&amp;zoneId=1579</string>
+    <string name="action_0">NHK world RADIO JAPAN</string>
+    <string name="url_0">http://www.nhk.or.jp/rj/podcast/rss/english.xml</string>
+    <string name="action_1">BBC World Service</string>
+    <string name="url_1">http://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads.rss</string>
+    <string name="action_2">CNN Student News</string>
+    <string name="url_2">http://rss.cnn.com/services/podcasting/studentnews/rss.xml</string>
+    <string name="action_3">VOA Learning English Broadcast</string>
+    <string name="url_3">http://learningenglish.voanews.com/podcast/?count=20&amp;zoneId=1689</string>
+    <string name="action_4">VOA This is America</string>
+    <string name="url_4">http://learningenglish.voanews.com/podcast/?count=20&amp;zoneId=1580</string>
+    <string name="action_5">VOA Science in the News</string>
+    <string name="url_5">http://learningenglish.voanews.com/podcast/?count=20&amp;zoneId=1579</string>
 </resources>

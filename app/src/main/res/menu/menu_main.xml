@@ -11,12 +11,12 @@
         android:id="@+id/action_1"
         android:orderInCategory="100"
         android:title="@string/action_1"
-        app:showAsAction="never" />
+        app:showAsAction="never"/>
     <item
         android:id="@+id/action_2"
         android:orderInCategory="100"
         android:title="@string/action_2"
-        app:showAsAction="never"/>
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_3"
         android:orderInCategory="100"
@@ -31,40 +31,5 @@
         android:id="@+id/action_5"
         android:orderInCategory="100"
         android:title="@string/action_5"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_6"
-        android:orderInCategory="100"
-        android:title="@string/action_6"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_7"
-        android:orderInCategory="100"
-        android:title="@string/action_7"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_8"
-        android:orderInCategory="100"
-        android:title="@string/action_8"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_9"
-        android:orderInCategory="100"
-        android:title="@string/action_9"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_10"
-        android:orderInCategory="100"
-        android:title="@string/action_10"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_11"
-        android:orderInCategory="100"
-        android:title="@string/action_11"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_12"
-        android:orderInCategory="100"
-        android:title="@string/action_12"
         app:showAsAction="never" />
 </menu>

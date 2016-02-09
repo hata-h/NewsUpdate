@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
         switch(id ) {
             case R.id.action_0:
                 url = getString(R.string.url_0);
-                name = getString(R.string.action_0);
+                name=getString(R.string.action_0);
                 break;
             case R.id.action_1:
                 url = getString(R.string.url_1);
@@ -110,34 +110,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_5:
                 url = getString(R.string.url_5);
                 name=getString(R.string.action_5);
-                break;
-            case R.id.action_6:
-                url = getString(R.string.url_6);
-                name=getString(R.string.action_6);
-                break;
-            case R.id.action_7:
-                url = getString(R.string.url_7);
-                name=getString(R.string.action_7);
-                break;
-            case R.id.action_8:
-                url = getString(R.string.url_8);
-                name=getString(R.string.action_8);
-                break;
-            case R.id.action_9:
-                url = getString(R.string.url_9);
-                name=getString(R.string.action_9);
-                break;
-            case R.id.action_10:
-                url = getString(R.string.url_10);
-                name=getString(R.string.action_10);
-                break;
-            case R.id.action_11:
-                url = getString(R.string.url_11);
-                name=getString(R.string.action_11);
-                break;
-            case R.id.action_12:
-                url=getString(R.string.url_12);
-                name=getString(R.string.action_12);
                 break;
             default:
                 url = null;
